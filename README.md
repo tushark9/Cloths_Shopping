@@ -1,5 +1,7 @@
 # Cloths_Shopping
 # eCommerce Clothes Shopping Website
+' AND FOR OPEN THIS WEBSITTE JUST CLICK ON :=
+   https://shoppingcloth.netlify.app
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -42,5 +44,4 @@ To run this project locally, follow these steps:
    cd ecommerce-clothes-shopping
 
 
-   AND FOR OPEN THIS WEBSITTE JUST CLICK ON :=
-   https://shoppingcloth.netlify.app
+  
